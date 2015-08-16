@@ -60,6 +60,8 @@ docs/_build/
 # PyBuilder
 target/
 
+# Auto-generated file
+movie/movie_ws/fresh_tomatoes.html
 
 ### PyCharm ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio
