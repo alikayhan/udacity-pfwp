@@ -1,4 +1,6 @@
-__author__ = 'alikayhan'
+#!/usr/bin/env python3
+
+# __author__ = 'alikayhan'
 
 from twilio.rest import TwilioRestClient
 
@@ -12,5 +14,5 @@ message = client.sms.messages.create(
     from_="+16282226242"
 )
 
-print message.sid
+print(message.sid)
 
